@@ -11,6 +11,7 @@ permalink: /ml/0/
 
 toc: true
 toc_sticky: true
+use_math: true
 
 date: 2024-06-21
 last_modified_at: 2024-06-21
@@ -22,29 +23,17 @@ last_modified_at: 2024-06-21
 
 ### - Probability Mass Function
 
-```math
+$$
 f(k;n,p) = \binom{n}{k} p^k(1-p)^{n-k}, \binom{n}{k} = \frac{n!}{k!(n-k)!}
-```
+$$
 
 ### - Characteristics
 
-- notation:
+- notation: $B(n,p)$
 
-```math
-B(n,p)
-```
+- mean: $np$
 
-- mean:
-
-```math
-np
-```
-
-- variance:
-
-```math
-np(1-p)
-```
+- variance: $np(1-p)$
 
 # Multinominal distribution
 
@@ -54,26 +43,14 @@ np(1-p)
 
 ### - Probability Mass Function
 
-```math
+$$
 f(x_1, ..., x_k;n,p_1,...,p_k) = \frac{n!}{x_1!...x_k!}p_1^{x_1}...p_k^{x_k}
-```
+$$
 
 ### - Characteristics
 
-- notation:
+- notation: $Mult(P),P=<p_1,...,p_k>$
 
-```math
-Mult(P),P=<p_1,...,p_k>
-```
+- mean: $\mathbb{E}(x_i) = np_i$
 
-- mean:
-
-```math
-\mathbb{E}(x_i) = np_i
-```
-
-- variance:
-
-```math
-Var(x_i) = np_i(1-p_i)
-```
+- variance: $Var(x_i) = np_i(1-p_i)$
