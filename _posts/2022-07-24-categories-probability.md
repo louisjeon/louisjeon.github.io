@@ -23,7 +23,7 @@ last_modified_at: 2024-06-21
 
 ### - Probability Mass Function
 
-$f(k;n,p) = \binom{n}{k} p^k(1-p)^{n-k}, \binom{n}{k} = \frac{n!}{k!(n-k)!}$
+> $f(k;n,p) = \binom{n}{k} p^k(1-p)^{n-k}, \binom{n}{k} = \frac{n!}{k!(n-k)!}$
 
 ### - Characteristics
 
@@ -41,7 +41,7 @@ $f(k;n,p) = \binom{n}{k} p^k(1-p)^{n-k}, \binom{n}{k} = \frac{n!}{k!(n-k)!}$
 
 ### - Probability Mass Function
 
-$f(x_1, ..., x_k;n,p_1,...,p_k) = \frac{n!}{x_1!...x_k!}p_1^{x_1}...p_k^{x_k}$
+&emsp; $f(x_1, ..., x_k;n,p_1,...,p_k) = \frac{n!}{x_1!...x_k!}p_1^{x_1}...p_k^{x_k}$
 
 ### - Characteristics
 
