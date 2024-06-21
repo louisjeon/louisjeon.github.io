@@ -1,13 +1,13 @@
 ---
-title: "Basic Probability theorems for ML"
-excerpt: "Basic probability"
+title: "Information Theory"
+excerpt: "About Information Theory..."
 
 categories:
   - Machine Learning
 tags:
   - [tag1, tag2]
 
-permalink: /ml/0/
+permalink: /ml/1/
 
 toc: true
 toc_sticky: true
@@ -17,36 +17,16 @@ date: 2024-06-21
 last_modified_at: 2024-06-21
 ---
 
-# Binomial distribution
+# Information Theory
 
-### - Bernoulli trial, yes or no
+### - Researched to quantify information and compress messages efficiently
 
-### - Probability Mass Function
+### - How many bits can discribe a certain incident
 
-&emsp; $f(k;n,p) = \binom{n}{k} p^k(1-p)^{n-k}, \binom{n}{k} = \frac{n!}{k!(n-k)!}$
+### - Less bits are used for frequent incidents
 
-### - Characteristics
+### - More bits are used for rare incidents
 
-- notation: $B(n,p)$
+### - Coin flip can be described with 1 bit
 
-- mean: $np$
-
-- variance: $np(1-p)$
-
-# Multinominal distribution
-
-### - Generalization of Binominal distribution
-
-- Probability distribution of choosing one from K amount of A, B, C, ... not only Yes/No.
-
-### - Probability Mass Function
-
-&emsp; $f(x_1, ..., x_k;n,p_1,...,p_k) = \frac{n!}{x_1!...x_k!}p_1^{x_1}...p_k^{x_k}$
-
-### - Characteristics
-
-- notation: $Mult(P),P=<p_1,...,p_k>$
-
-- mean: $\mathbb{E}(x_i) = np_i$
-
-- variance: $Var(x_i) = np_i(1-p_i)$
+### - 2 bits are used for 4 choices (00/01/10/11)
