@@ -1,21 +1,23 @@
 ---
-title: "[ML] 머신러닝"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "My new Blog"
+excerpt: "About my new blog..."
 
 categories:
-  - Machine Learning
+  - Daily Life
 tags:
   - [tag1, tag2]
 
-permalink: /ml/0/
+permalink: /daily/0/
 
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2024-06-21
+last_modified_at: 2024-06-21
 ---
 
-## 🦥 본문
+## Opening my blog
 
-본문은 여기에 ...
+Today, I have opened my first blog to write about my journey in AI, NLP and Quant Finance.
+I will also upload my daily life on this blog.
+Stay tuned...
