@@ -1,5 +1,5 @@
 ---
-title: "Quant"
+title: "Quant Finance"
 layout: category
 permalink: /categories/quant/
 author_profile: true
