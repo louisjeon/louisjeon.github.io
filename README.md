@@ -1,11 +1,11 @@
+## ▼▼▼hoiis님의 테마를 fork한 레퍼지토리입니다▼▼▼
+
 ## 🦥 `Minimal Mistakes theme customized by choiiis`
 
 📎 **블로그 바로 가기**
 [`https://choiiis.github.io/`](https://choiiis.github.io/)
 
 ---
-
-## ▼▼▼hoiis님의 테마를 fork한 레퍼지토리입니다▼▼▼
 
 fork 해서 사용하시기 편하게 변경해서 새로 올려봅니다.  
 편하게 사용하시고, fork 하실 때 `star` 하나만 눌러주세용 :)
