@@ -1,8 +1,8 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hi all! I'm Morales."
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+Software engineer who's deeply interested in AI, NLP and Quant Finance.
