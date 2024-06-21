@@ -19,5 +19,7 @@ last_modified_at: 2024-06-21
 ## Opening my blog
 
 Today, I have opened my first blog to write about my journey in AI, NLP and Quant Finance.
+
 I will also upload my daily life on this blog.
+
 Stay tuned...
