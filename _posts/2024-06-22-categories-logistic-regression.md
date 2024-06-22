@@ -36,7 +36,7 @@ last_modified_at: 2024-06-22
   - $D = \{(x^{(1)}, y^{(1)}), ..., (x^{(N)}, y^{(N)})\}$
 - Hypothesis set
 
-  - $\mathcal{H} = \{\mathcal{H}_1, \mathcal{H}_2, ...\}$
+  - $\mathcal{H} = \{\mathcal{H}_1, \mathcal{H}\_2, ...\}$
     $\widehat{M} = \displaystyle\operatorname*{argmin}_{M\in\mathcal{H}}\displaystyle\sum_{i}^{N}l(M(x^{(i)}),y^{(i)})$
 
 - Model's output should be between 0 and 1 to make a probability approximation model
