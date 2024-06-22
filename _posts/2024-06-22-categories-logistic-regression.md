@@ -3,10 +3,9 @@ title: "Logistic Regression"
 excerpt: "About Logistic Regression..."
 
 categories:
-
-- Machine Learning
-  tags:
-- [tag1, tag2]
+  - Machine Learning
+tags:
+  - [tag1, tag2]
 
 permalink: /ml/2/
 
@@ -16,7 +15,6 @@ use_math: true
 
 date: 2024-06-22
 last_modified_at: 2024-06-22
-
 ---
 
 ## Classification
