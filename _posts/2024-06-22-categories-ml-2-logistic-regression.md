@@ -1,6 +1,6 @@
 ---
 title: "Logistic Regression"
-excerpt: "About Logistic Regression..."
+excerpt: "About Logistic Regression"
 
 categories:
   - Machine Learning
@@ -47,7 +47,7 @@ last_modified_at: 2024-06-22
       $\sigma(x) = \frac{1}{1+e^{-x}}$
       <br/>
 
-    $\boldsymbol\theta = \begin{bmatrix}\theta_1\\{\theta_2}\end{bmatrix}, \boldsymbol{x}=\begin{bmatrix}x_1\\{x_2}\end{bmatrix},y\in\{0,1\}$<br/>
+    $\boldsymbol\theta = \begin{bmatrix}\theta_1\\{\theta_2}\end{bmatrix}, \boldsymbol{x}=\begin{bmatrix}x_1\\{x_2}\end{bmatrix},y\in\{0,1\}$ <br/>
     $P_{\theta}(y=1|\boldsymbol{x})=\sigma(g(\boldsymbol{x}))=\sigma(\boldsymbol\theta^T\boldsymbol{x} + \theta_0)=\frac{1}{1+e^{-(\boldsymbol\theta^Tx+\theta_0)}}=\sigma(\theta_1x_1+\theta_2x_2+\theta_0)=\frac{1}{1+e^{-(\theta_1x_1+\theta_2x_2+\theta_0)}}$<br/>
 
     ### $g(x) = \theta_0 + \theta_1x_1 + \theta_2x_2 + \cdots + \theta_nx_n$

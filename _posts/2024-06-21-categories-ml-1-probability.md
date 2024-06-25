@@ -1,6 +1,6 @@
 ---
 title: "Information Theory"
-excerpt: "About Information Theory..."
+excerpt: "About Information Theory"
 
 categories:
   - Machine Learning

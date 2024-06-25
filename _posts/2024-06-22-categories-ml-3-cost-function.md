@@ -31,6 +31,7 @@ last_modified_at: 2024-06-22
 - Probability of model $p_\theta(x)$ observing data set $D=\{x^{(1)}, x^{(2)}, ... ,x^{(N)}\}$
   ### $p_\theta(x^{(1)}, x^{(2)}, ... ,x^{(N)}) = p_\theta(x^{(1)})p_\theta(x^{(2)})...p_\theta(x^{(N)}) = \displaystyle\prod_{i=1}^{N}p_\theta(x^{(i)})$
 - Probability of model $p_\theta(y|x)$ observing data set $D=\{(y^{(1)}, x^{(1)}), (y^{(2)}, x^{(2)}), ... ,(y^{(n)}, x^{(N)})\}$
+
   ### $p_\theta(y^{(1)}, y^{(2)}, ... ,y^{(N)}|x^{(1)}, x^{(2)}, ... ,x^{(N)}) = p_\theta(y^{(1)}|x^{(1)})p_\theta(y^{(2)}|x^{(2)})...p_\theta(y^{(N)}|x^{(N)}) = \displaystyle\prod_{i=1}^{N}p_\theta(y^{(i)}|x^{(i)})$
 
 ## Maximum Likelihood Estimation

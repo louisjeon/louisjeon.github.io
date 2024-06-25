@@ -1,6 +1,6 @@
 ---
 title: "My new Blog"
-excerpt: "About my new blog..."
+excerpt: "About my new blog"
 
 categories:
   - Daily Life
