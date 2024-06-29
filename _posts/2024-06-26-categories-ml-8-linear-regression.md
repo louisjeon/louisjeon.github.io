@@ -33,4 +33,5 @@ last_modified_at: 2024-06-26
   #### $J(\boldsymbol{\theta}) = \frac{1}{2N}\displaystyle\sum_{i=1}^{N}(h_\boldsymbol\theta(\boldsymbol{x}^{(i)})-y^{(i)})^2$
 
 ## Gradient Descent
-  #### $\theta_j := \theta_j - \alpha\frac{\partial J(\boldsymbol\theta)}{\partial\theta_j} = \theta_j - \alpha \displaystyle\sum_{i=1}^{N}(h_\boldsymbol\theta(\boldsymbol{x}^{(i)}) - y^{(i)})x_j^{(i)}$
+
+#### $\theta_j := \theta_j - \alpha\frac{\partial J(\boldsymbol\theta)}{\partial\theta_j} = \theta_j - \alpha \displaystyle\sum_{i=1}^{N}(h_\boldsymbol\theta(\boldsymbol{x}^{(i)}) - y^{(i)})x_j^{(i)}$

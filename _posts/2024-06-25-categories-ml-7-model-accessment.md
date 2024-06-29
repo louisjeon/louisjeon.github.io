@@ -35,7 +35,7 @@ last_modified_at: 2024-06-26
 
 ## Accuracy
 - Ratio of correct answers from entire sample number of data set
-#### $Accuracy = \frac{\Sigma_iequals(y^{(i)},\widehat{y}^{(i)})}{N}=\frac{\#\ of\ correct}{\#\ of\ correct\ +\ \#\ of\ incorrect}$
+#### $Accuracy = \frac{\Sigma_iequals(y^{(i)},\widehat{y}^{(i)})}{N}=\frac{Number\ of\ correct}{Number\ of\ correct\ +\ Number\ of\ incorrect}$
 
 ## Precision and Recall
 - True positives + false negatives = Real positives
