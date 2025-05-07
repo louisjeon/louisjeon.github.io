@@ -42,7 +42,7 @@ last_modified_at: 2025-05-07
 - Physical quantity like energy level is represented as eigenvalue of an operator.
 ### Calculation Efficiency
 - Complexity is dramatically reduced when a matrix's involution $A^k$ is calculated with eigensolution. For example, when decomposed as $A = PDP^{-1}$, $A^k = PD^kP^{-1}$ is validated.
-### Graph Theory
+### Graph Theory 
 - Eigenvalue of an adjacency matrix is used for analyzing network connectivity, community structure and etc.
 
 ## Example
